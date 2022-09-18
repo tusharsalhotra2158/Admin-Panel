@@ -1,0 +1,281 @@
+.guts {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  line-height: 50px;
+  background-color: black;
+  color: red;
+}
+
+.bull {
+  display: inline;
+  margin-left: 10px;
+  color: green;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.login {
+  color: white;
+  float: right;
+  margin-right: 10px;
+}
+
+.block {
+  border: 1px solid;
+  margin-top: 20px;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.Border-box {
+  border: 1px solid;
+  margin-top: 20px;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+
+.number-inputs {
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+.buttons {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 1px solid;
+}
+
+.add {
+  background-color: springgreen;
+  border: 1px solid springgreen;
+  margin-right: 10px;
+  box-shadow: 0px 0px 1px gray;
+}
+
+.subtract {
+  background-color: bisque;
+  border: 1px solid bisque;
+  margin-right: 10px;
+  box-shadow: 0px 0px 1px gray;
+}
+
+.divide {
+  background-color: chocolate;
+  border: 1px solid chocolate;
+  margin-right: 10px;
+  box-shadow: 0px 0px 1px gray;
+}
+
+.multiply {
+  background-color: cornflowerblue;
+  border: 1px solid cornflowerblue;
+  margin-right: 10px;
+  box-shadow: 0px 0px 1px gray;
+}
+
+.clear {
+  background-color: red;
+  border: 1px solid red;
+  margin-right: 10px;
+  box-shadow: 0px 0px 1px gray;
+}
+
+.head {
+  font-size: 30px;
+}
+
+.create {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.fill {
+  border: 2px solid black;
+  margin-left: 10px;
+}
+
+.Increment {
+  text-align: center;
+}
+
+.dark {
+  /* padding-left: 40px !important;
+  padding-right: 40px !important; */
+  margin-right: 20px;
+  width: 90px;
+}
+
+.dark1 {
+  /* padding-left: 38px !important;
+  padding-right: 40px !important; */
+  /* background-color: orange !important; */
+  margin-right: 16px;
+  width: 93px !important;
+  height: 40px;
+}
+
+.rows {
+  text-align: center;
+}
+
+.container {
+  padding-top: 30px;
+}
+
+.input1 {
+  width: 35%;
+  text-align: right;
+  font-size: 60px;
+}
+
+.container-box {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-self: center;
+}
+
+.Container {
+  text-align: center;
+  margin-top: 20px;
+  /* margin-bottom: 30px; */
+  align-self: center;
+  /* border: 1px solid black; */
+  margin-right: 30%;
+  margin-left: 30%;
+}
+
+.seats {
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+  margin-top: 15px;
+  border-color: transparent !important;
+  border-top-right-radius: 20px !important;
+  border-top-left-radius: 20px !important;
+  height: 25px !important;
+  background-color: gray !important;
+  margin-right: 5px;
+}
+
+.Container-Box {
+  margin-bottom: 20px;
+  border: 1px solid;
+  margin-right: 0px;
+  /* padding-right: 25px !important; */
+}
+
+.title {
+  text-align: center;
+}
+
+.d-flex {
+  /* margin-left: 25px; */
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.body {
+  background-color: #10112d;
+}
+
+.Screen {
+  background-color: white;
+  border: 1px solid white;
+  width: 92%;
+  height: 70px;
+  transform: perspective(30px) rotateX(-1deg);
+  box-shadow: 0px 0px 5px 2px #f9f9f9;
+}
+.d-flex3 {
+  margin-top: 20px;
+}
+.pick {
+  color: white;
+}
+.seats1 {
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+  margin-top: 15px;
+  border-top-right-radius: 20px !important;
+  border-top-left-radius: 20px !important;
+  height: 25px !important;
+  background-color: rgba(105, 192, 243, 0.699) !important;
+  margin-right: 5px;
+}
+.seats2 {
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+  margin-top: 15px;
+  border-top-right-radius: 20px !important;
+  border-top-left-radius: 20px !important;
+  height: 25px !important;
+  background-color: white !important;
+  margin-right: 5px;
+}
+.seats3 {
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+  margin-top: 15px;
+  border-top-right-radius: 20px !important;
+  border-top-left-radius: 20px !important;
+  height: 25px !important;
+  background-color: gray !important;
+  margin-right: 5px;
+}
+.seats4 {
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+  margin-top: 15px;
+  border-top-right-radius: 20px !important;
+  border-top-left-radius: 20px !important;
+  height: 25px !important;
+  background-color: white !important;
+  margin-right: 5px;
+}
+.option {
+  color: #808080e0;
+  font-size: 20px;
+  font-weight: 500;
+}
+.guitar {
+  background: black;
+  z-index: 1;
+  width: 610px;
+  height: 600px;
+  float: left;
+  opacity: 0.4;
+  border: 1px solid transparent;
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px;
+}
+#input-with-icon-textfield {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 500;
+}
+.images {
+  position: absolute;
+  z-index: 11;
+  text-align: center;
+  margin-top: 265px;
+  margin-left: 160px;
+}
+.MuiInput-underline:after {
+  border-bottom: 2px solid red !important;
+}
+.alert {
+  font-size: 12px;
+  margin-bottom: 0px !important;
+  padding: 0 !important;
+}
+.form-group {
+  margin-bottom: 0px !important;
+}
+.barButton {
+  padding-left: 0 !important;
+}
+.MuiTableBody-root {
+  display: grid !important;
+}
